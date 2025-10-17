@@ -17,7 +17,4 @@ Staging Area (Area de control de cambios) Se agregan los archivos para darle seg
 
 Local Repo (Area de validación de cambios, donde se registran las modificaciones realizadas) Donde van a estar todas las fotos (commit) que vaya sacando.
 
-```sh
-git commit # Editor de texto para colocar el mensaje
-```
 
