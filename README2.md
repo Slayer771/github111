@@ -1,4 +1,3 @@
-Clase 01 - Git Desarrollo Colaborativo
 Configuración inicial de GIT
 git config --global user.name "Maximiliano Príncipe"
 git config --global user.email "mlapeducacionit@gmail.com"
@@ -17,3 +16,8 @@ Working Directory (Directorio de trabajo) donde se van agregando y borrando arch
 Staging Area (Area de control de cambios) Se agregan los archivos para darle seguimiento y posteriormente sacarles una foto (commit)
 
 Local Repo (Area de validación de cambios, donde se registran las modificaciones realizadas) Donde van a estar todas las fotos (commit) que vaya sacando.
+
+```sh
+git commit # Editor de texto para colocar el mensaje
+```
+
